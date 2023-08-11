@@ -6,19 +6,19 @@ html {
 }
 
 body {
+  /*insert the cutlery image here!*/
   width: 100%;
   height: 100%;
-  background: #333 url('img/cutlery.jpg') center center no-repeat fixed;
   background-size: cover;
   color: #532827;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 #container {
+  /*insert the bacground paper-pattern image here!*/
   width: 400px;
   margin: 40px auto 0;
   padding: 50px;
-  background: url('img/paper-pattern.jpg') top left repeat;
   box-shadow: 0 10px 15px -8px #000;
   border-radius: 5px;
   text-align: center;
@@ -51,7 +51,7 @@ form input[type="number"] {
 }
 
 button {
-  background-color: #6C2726;
+  /*insert the button colour here!*/
   color: #fff;
   border: none;
   border-bottom: 4px solid #222;
